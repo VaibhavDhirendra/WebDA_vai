@@ -2,8 +2,7 @@
 
 ## Project
 
-***EN:*** This project is a colorful single page portfolio with a collapsing effect on your navigation that shows information about a web developer. It was created during the Bootstrap 4.
-
+***EN:*** This project is a colorful single page portfolio with a collapsing effect on your navigation that shows realted information.
 ## Technologies
 
 This project was developed with the following technologies:
@@ -13,11 +12,4 @@ This project was developed with the following technologies:
 - Bootstrap
 - JQuery
 ***
- 
-## Preview
-![preview](preview.png)
-***
 
-## License
-
-This project is under the VIT license.
