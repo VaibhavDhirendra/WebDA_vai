@@ -2,7 +2,7 @@
 
 ## Project
 
-***EN:*** This project is a colorful single page portfolio with a collapsing effect on your navigation that shows realted information.
+***EN:*** This project is a colorful single page portfolio with a collapsing effect on your navigation that shows related information.
 ## Technologies
 
 This project was developed with the following technologies:
